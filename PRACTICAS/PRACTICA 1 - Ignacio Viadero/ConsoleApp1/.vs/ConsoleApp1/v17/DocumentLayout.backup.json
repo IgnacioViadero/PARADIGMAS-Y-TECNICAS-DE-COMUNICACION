@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|ConsoleApp1.csproj|c:\\users\\ignac\\onedrive\\escritorio\\icai\\3 curso\\1 cuatri\\paradigmas y tecnicas de programacion\\practicas\\practica 1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|c:\\users\\ignac\\onedrive\\escritorio\\icai\\3 curso\\1 cuatri\\paradigmas y tecnicas de programacion\\practicas\\practica 1\\consoleapp1\\police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|solutionrelative:police.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|c:\\users\\ignac\\onedrive\\escritorio\\icai\\3 curso\\1 cuatri\\paradigmas y tecnicas de programacion\\practicas\\practica 1\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|c:\\users\\ignac\\onedrive\\escritorio\\icai\\3 curso\\1 cuatri\\paradigmas y tecnicas de programacion\\practicas\\practica 1\\consoleapp1\\radar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|solutionrelative:radar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|c:\\users\\ignac\\onedrive\\escritorio\\icai\\3 curso\\1 cuatri\\paradigmas y tecnicas de programacion\\practicas\\practica 1\\consoleapp1\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAACB233-8470-4761-9F7F-C4AF48FB0939}|Practica1.csproj|solutionrelative:taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:38:21.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radar.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Radar.cs",
+              "RelativeDocumentMoniker": "Radar.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Radar.cs",
+              "RelativeToolTip": "Radar.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:38:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Police.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Police.cs",
+              "RelativeDocumentMoniker": "Police.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Police.cs",
+              "RelativeToolTip": "Police.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:37:55.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:37:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\ICAI\\3 CURSO\\1 CUATRI\\PARADIGMAS Y TECNICAS DE PROGRAMACION\\PRACTICAS\\PRACTICA 1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T14:36:49.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

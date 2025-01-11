@@ -1,0 +1,14 @@
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\bin\Debug\net8.0\Practica1.exe
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\bin\Debug\net8.0\Practica1.deps.json
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\bin\Debug\net8.0\Practica1.runtimeconfig.json
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\bin\Debug\net8.0\Practica1.dll
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\bin\Debug\net8.0\Practica1.pdb
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.dll
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\refint\Practica1.dll
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.pdb
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
+C:\Users\ignac\OneDrive\Escritorio\ICAI\3 CURSO\1 CUATRI\PARADIGMAS Y TECNICAS DE PROGRAMACION\PRACTICAS\PRACTICA 1\ConsoleApp1\obj\Debug\net8.0\ref\Practica1.dll
