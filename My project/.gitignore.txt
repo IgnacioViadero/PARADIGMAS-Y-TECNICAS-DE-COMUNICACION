@@ -1,0 +1,21 @@
+# Archivos y carpetas generados por Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos locales de Unity
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
